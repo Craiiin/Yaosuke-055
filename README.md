@@ -150,7 +150,7 @@ shadow_ray_orig = p + N * 1e-4  # 阴影射线起点
 **Anti-Aliasing 效果**：
 - **关闭**：边缘有明显锯齿，渲染速度快
 - **开启**：边缘平滑连续，渲染速度约为 4 倍
-
+<img width="480" height="395" alt="NRy00ToN_converted" src="https://github.com/user-attachments/assets/3aa77832-3d0d-4c27-94f4-954bdefd445f" />
 
 ## 六、运行指南
 
